@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rick y Morty</string>
+    <string name="nombre_de_la_serie">Nombre de la serie:</string>
+    <string name="rick_y_morty">Rick y Morty</string>
+    <string name="fecha_de_lanzamiento">Fecha De Lanzamiento:</string>
+    <string name="justin_roiland_dan_harmon_ryan_ridley_m_s">Justin Roiland, Dan Harmon, Ryan Ridley, MÁS</string>
+    <string name="_2_de_diciembre_de_2013">2 de diciembre de 2013</string>
+    <string name="autores_principales">Autores principales:</string>
+
+    <string name="descripcion">Descripcion</string>
+    <string name="la_serie_sigue_las_desventuras_de_un_cient_fico_rick_y_su_f_cilmente_influenciable_nieto_morty_quienes_pasan_el_tiempo_entre_la_vida_dom_stica_y_los_viajes_espaciales_temporales_e_intergal_cticos">La serie sigue las desventuras de un científico, Rick, y su fácilmente influenciable nieto, Morty, quienes pasan el tiempo entre la vida doméstica y los viajes espaciales, temporales e intergalácticos</string>
+    <string name="sitio_web">Sitio Web</string>
+</resources>
